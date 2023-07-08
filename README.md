@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Total Visiter in My github</h2>
+<h1>Total Visiter in My github</h1>
 
 ![](https://workers-visitors.endyd9.workers.dev/visit?page=https://github.com/endyd9/&cahce)
 
