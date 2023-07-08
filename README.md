@@ -27,3 +27,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 
+![](https://img.shields.io/badge/Node-339933?style=flat&logo=Node.js&logoColor=white)
+![](https://img.shields.io/badge/express.js-000000?style=flat&logo=Express&logoColor=white)
+
+![](https://img.shields.io/badge/Node-339933?style=flat&logo=Node.js&logoColor=white)
+
+
+
+
+
