@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <h1>Total Visiter in My github</h1>
 
-![](https://workers-visitors.endyd9.workers.dev/visit?page=https://github.com/endyd9/)
+![](https://workers-visitors.endyd9.workers.dev/visit?page=github.com/endyd9)
 
