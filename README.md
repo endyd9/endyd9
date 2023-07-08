@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=Mongoose&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/PlanetScale-0?style=flat&logo=planetscale&logoColor=white)
+
 
 
 
