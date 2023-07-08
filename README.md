@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 
 ![](https://workers-visitors.endyd9.workers.dev/visit?page=github.com/endyd9)
 
-# Tech Stack
+## Tech Stack
 
+
+![](https://img.shields.io/badge/HTML-F7DF1E?style=flat&logo=HTML&logoColor=white)
+![](https://img.shields.io/badge/CSS-F7DF1E?style=flat&logo=CSS&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
