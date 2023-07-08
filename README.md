@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ## Tech Stack
 
 
-![](https://img.shields.io/badge/JavaScript-#000?style=flat&logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 
