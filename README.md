@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 
 ![](https://img.shields.io/badge/Node-339933?style=flat&logo=Node.js&logoColor=white)
-![](https://img.shields.io/badge/`ts-node`-3178C6?style=flat&logo=ts-node&logoColor=white)
+![](https://img.shields.io/badge/TSNode-3178C6?style=flat&logo=ts-node&logoColor=white)
 
 ![](https://img.shields.io/badge/express.js-000000?style=flat&logo=Express&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
