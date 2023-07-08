@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Total Visiter</h2>
+<h2>Total Visiter My Repository</h2>
 <img src="https://workers-visitors.endyd9.workers.dev/visit?page=https://github.com/endyd9/">
