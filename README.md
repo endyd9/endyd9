@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 
 ![](https://workers-visitors.endyd9.workers.dev/visit?page=github.com/endyd9)
 
+## Tech Stack
+
+![]("https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white")
+
