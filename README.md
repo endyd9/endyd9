@@ -28,6 +28,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=endyd9&show_icons=true&theme=shadow_green)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endyd9&layout=compact&theme=shadow_green)
+
 
 
 
