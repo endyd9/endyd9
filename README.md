@@ -6,9 +6,11 @@
 
 ## Tech Stack
 
-### MarkUp Language
+### Markup
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/TailWindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ### Front-end
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
