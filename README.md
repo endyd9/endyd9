@@ -23,6 +23,13 @@
 ![](https://img.shields.io/badge/PlanetScale-000000?style=flat&logo=planetscale&logoColor=white)
 ![](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
+## Now Learning
+![](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
+![](https://img.shields.io/badge/jest-C21325?style=flat&logo=jest&logoColor=white)
+![](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQl&logoColor=white)
+![](https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+
 
 ## Git Stats
 
