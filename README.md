@@ -6,21 +6,24 @@
 
 # Tech Stack ⚙️
 
+
+### Language
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+
 ### Markup
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)  
 ![](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/TailWindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
 
-### Front-end
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+### Framework
+
+#### Front-end
 ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white) 
 ![](https://img.shields.io/badge/Next-000000?style=flat&logo=Next.js&logoColor=white)
 
-### Back-end
-![](https://img.shields.io/badge/Node-339933?style=flat&logo=Node.js&logoColor=white)
-![](https://img.shields.io/badge/TSNode-3178C6?style=flat&logo=ts-node&logoColor=white)  
-![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+#### Back-end
 ![](https://img.shields.io/badge/express.js-000000?style=flat&logo=Express&logoColor=white)
 
 ### DataBase
@@ -31,10 +34,10 @@
 ![](https://img.shields.io/badge/PlanetScale-000000?style=flat&logo=planetscale&logoColor=white)  
 
 # Now Learning 🧐
-#### ![](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
-#### ![](https://img.shields.io/badge/jest-C21325?style=flat&logo=jest&logoColor=white)
-#### ![](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQl&logoColor=white)
-#### ![](https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)
+### ![](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
+### ![](https://img.shields.io/badge/jest-C21325?style=flat&logo=jest&logoColor=white)
+### ![](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQl&logoColor=white)
+### ![](https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 
 
