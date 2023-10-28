@@ -21,9 +21,11 @@ My PortFolio Page is [Here!](http://endyd9.github.io/Portfolio/)
 #### Front-end
 ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white) 
 ![](https://img.shields.io/badge/Next-000000?style=flat&logo=Next.js&logoColor=white)
+![](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
 #### Back-end
 ![](https://img.shields.io/badge/express.js-000000?style=flat&logo=Express&logoColor=white)
+![](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
 
 ### DataBase
 ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
@@ -32,12 +34,12 @@ My PortFolio Page is [Here!](http://endyd9.github.io/Portfolio/)
 ![](https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)  
 ![](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
+
+### etc
+![](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQl&logoColor=white)
+
 # Now Learning 🧐
-### ![](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
-### ![](https://img.shields.io/badge/jest-C21325?style=flat&logo=jest&logoColor=white)
-### ![](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQl&logoColor=white)
-
-
+![](https://img.shields.io/badge/MobX-FF9955?style=flat&logo=mobx&logoColor=white)
 
 # Usage
 
