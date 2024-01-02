@@ -22,6 +22,7 @@ My PortFolio Page is [Here!](http://endyd9.github.io/Portfolio/)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white) 
 ![](https://img.shields.io/badge/Next-000000?style=flat&logo=Next.js&logoColor=white)
 ![](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/MobX-FF9955?style=flat&logo=mobx&logoColor=white)
 
 #### Back-end
 ![](https://img.shields.io/badge/express.js-000000?style=flat&logo=Express&logoColor=white)
@@ -39,7 +40,7 @@ My PortFolio Page is [Here!](http://endyd9.github.io/Portfolio/)
 ![](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQl&logoColor=white)
 
 # Now Learning 🧐
-![](https://img.shields.io/badge/MobX-FF9955?style=flat&logo=mobx&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 # Usage
 
